@@ -16,8 +16,3 @@ export interface BandMember {
   role: string;
   bio: string;
 }
-
-export enum ViewMode {
-  STRATEGY = 'strategy',
-  DEMO = 'demo'
-}
