@@ -157,25 +157,25 @@ const BandSiteDemo: React.FC = () => {
       name: "Губарев Елисей", 
       role: "басист",
       icon: "🎸",
-      img: "https://drive.google.com/uc?export=view&id=1MbB8hjuGJhUPJjF4xYOW98-Aj33tRR23"
+      img: "https://drive.google.com/uc?export=view&id=1a3pbH_0TjazxRXnmvkx5ng1mcnMKMaMw"
     },
     { 
       name: "Соловьев Даниил", 
       role: "вокалист, гитарист",
       icon: "🎸",
-      img: "https://drive.google.com/uc?export=view&id=1X1Z8hjuGJhUPJjF4xYOW98-Aj33tRR23"
+      img: "https://drive.google.com/uc?export=view&id=1PGNALjtYL-DSy84C8z6RnZgcKLhSgVy1"
     },
     { 
       name: "Елисеев Андрей", 
       role: "барабанщик",
       icon: "🥁",
-      img: "https://drive.google.com/uc?export=view&id=1S0iYDaYWJkjoBpB5ROvODmERowa2XoBd"
+      img: "https://drive.google.com/uc?export=view&id=1qovYDaYWJkjoBpB5ROvODmERowa2XoBd"
     },
     { 
       name: "Шевченко Даниил", 
       role: "гитарист",
       icon: "🎸",
-      img: "https://drive.google.com/uc?export=view&id=1XyZ8hjuGJhUPJjF4xYOW98-Aj33tRR23"
+      img: "https://drive.google.com/uc?export=view&id=1q3dHdDNZXMcnIW_YTxZ-EWTTMOAiqMTv"
     }
   ];
 
@@ -408,7 +408,7 @@ const BandSiteDemo: React.FC = () => {
               <div className="relative group lg:sticky lg:top-32">
                 <div className="absolute inset-0 bg-gradient-to-tr from-[#00ffaa] via-[#00d4ff] to-[#ff00ff] opacity-30 blur-3xl group-hover:opacity-60 transition-opacity"></div>
                 <img 
-                  src="https://drive.google.com/uc?export=view&id=1jKj9X-qY1zXoW98-Aj33tRR23" 
+                  src="https://drive.google.com/uc?export=view&id=1a3pbH_0TjazxRXnmvkx5ng1mcnMKMaMw" 
                   className="rounded-[4rem] shadow-2xl grayscale group-hover:grayscale-0 transition-all duration-1000 relative z-10 rotate-3 group-hover:rotate-0 border-2 border-white/10 w-full object-cover" 
                   alt="Band Session"
                   onError={(e) => {
